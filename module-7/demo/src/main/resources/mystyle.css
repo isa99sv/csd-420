@@ -1,0 +1,15 @@
+.circleclass{
+ -fx-fill: white;
+ -fx-stroke: black;
+ -fx-stroke-width: 2px;
+}
+
+
+#redcolor{
+-fx-fill: red;
+}
+
+
+#greencolor{
+  -fx-fill: green;
+}
